@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon Mar 18 17:13:56 2024
+# Process ID: 6744
+# Current directory: C:/Users/admin/lab4-2_10/lab4-2_10.runs/synth_1
+# Command line: vivado.exe -log level1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source level1.tcl
+# Log file: C:/Users/admin/lab4-2_10/lab4-2_10.runs/synth_1/level1.vds
+# Journal file: C:/Users/admin/lab4-2_10/lab4-2_10.runs/synth_1\vivado.jou
+# Running On: Meirambak, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 6, Host memory: 16889 MB
+#-----------------------------------------------------------
+source level1.tcl -notrace

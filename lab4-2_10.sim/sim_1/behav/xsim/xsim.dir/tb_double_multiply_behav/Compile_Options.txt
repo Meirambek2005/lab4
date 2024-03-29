@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "secureip" --snapshot "tb_double_multiply_behav" "xil_defaultlib.tb_double_multiply" -log "elaborate.log" 
